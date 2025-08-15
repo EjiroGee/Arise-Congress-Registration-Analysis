@@ -66,7 +66,15 @@ The resulting dashboard equips event organizers with a powerful tool for plannin
 ![Arise Congress Dashboard](https://github.com/EjiroGee/Arise-Congress-Registration-Analysis/blob/main/Arise%20Dashboard.jpg)
 
 ---
-
-**Author:** Ekiugbo Ejiroghene  
+ 
 **Tools Used:** Apify, Microsoft Excel, Power Query, Pivot Tables  
 **Tags:** `#DataAnalysis` `#WebScraping` `#Excel` `#PowerQuery` `#Apify`
+
+---
+
+## Author
+
+**Ejiroghene Ekiugbo**  
+_Data Analyst | Public Health Researcher | Excel & Dashboard Enthusiast_  
+[Connect on LinkedIn](https://www.linkedin.com/in/ejiroghene-ekiugbo-669540242/) | [Visit Medium](https://medium.com/@ekiugboejiroghene)
+
