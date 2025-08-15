@@ -63,7 +63,7 @@ The resulting dashboard equips event organizers with a powerful tool for plannin
 ---
 
 ## 🖼 Dashboard Preview
-![Arise Congress Dashboard](AriseDashboard.jpg)
+![Arise Congress Dashboard](https://github.com/EjiroGee/Arise-Congress-Registration-Analysis/blob/main/Arise%20Dashboard.jpg)
 
 ---
 
